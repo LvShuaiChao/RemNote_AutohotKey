@@ -4,33 +4,35 @@
 
 测试最新的状态：
 
-![Snipaste_2021-03-22_09-17-33](README.assets/Snipaste_2021-03-22_09-17-33-1616389682537.jpg)
+
+
+![Snipaste_2021-03-22_09-17-33](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/Snipaste_2021-03-22_09-17-33.jpg)
+
+
+
+
 
 
 
 本项目的程序则可以避免这个问题，使用状态如下。
 
-![image-20210322104515830](E:%5CCode%5CMain%5Cautohotkey%5CRemNote_AutohotKey%5CReadMe.assets%5Cimage-20210322104515830.png)
+![11](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/11.gif)
 
-
+![!!](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/!!.gif)
 
 键入两个!!以输入日期
 
-![!!](E:%5CCode%5CMain%5Cautohotkey%5CRemNote_AutohotKey%5CReadMe.assets%5C!!-1616380965258.gif)
-
-
+![！！](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/%EF%BC%81%EF%BC%81.gif)
 
 键入两个##以输入标签
 
-![##](E:%5CCode%5CMain%5Cautohotkey%5CRemNote_AutohotKey%5CReadMe.assets%5C##-1616380965258.gif)
-
-
+![输入标签](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/%E8%BE%93%E5%85%A5%E6%A0%87%E7%AD%BE.gif)
 
 
 
 键入两个$$输入公式
 
-![$$](E:%5CCode%5CMain%5Cautohotkey%5CRemNote_AutohotKey%5CReadMe.assets%5C$$.gif)
+![22](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/22.gif)
 
 现在使用的时候，只需要快速的输入对应的字符即可自动触发RemNote操作，而无需切换需要为英文状态，具体使用效果如下图所示。
 
@@ -38,10 +40,10 @@
 
 
 
-![image-20210322125838888](README.assets/image-20210322125838888.png)
+![image-20210322125838888](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/image-20210322125838888.png)
 
 
 
 或者下载安装AutoHotkey，然后运行RemNote_AutoHotkey.ahk文件 即可，使用的时候程序没有界面，自动隐藏在后台。
 
-![image-20210322130439264](README.assets/image-20210322130439264.png)
+![image-20210322130439264](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/image-20210322130439264.png)
