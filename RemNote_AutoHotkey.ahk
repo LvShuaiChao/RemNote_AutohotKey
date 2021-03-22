@@ -1,3 +1,5 @@
+# -- coding: utf-8 --
+
 #SingleInstance Ignore			;;执行程序前先关闭程序
 #Persistent
 
