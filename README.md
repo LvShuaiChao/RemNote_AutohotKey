@@ -16,23 +16,25 @@
 
 本项目的程序则可以避免这个问题，使用状态如下。
 
-![11](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/11.gif)
 
-![!!](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/!!.gif)
+
+<img src="https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/11.gif" alt="11" style="zoom:50%;" />
+
+<img src="https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/!!.gif" alt="!!" style="zoom:50%;" />
 
 键入两个!!以输入日期
 
-![！！](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/%EF%BC%81%EF%BC%81.gif)
+<img src="https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/%EF%BC%81%EF%BC%81.gif" alt="！！" style="zoom:50%;" />
 
 键入两个##以输入标签
 
-![输入标签](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/%E8%BE%93%E5%85%A5%E6%A0%87%E7%AD%BE.gif)
+<img src="https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/%E8%BE%93%E5%85%A5%E6%A0%87%E7%AD%BE.gif" alt="输入标签" style="zoom:50%;" />
 
 
 
 键入两个$$输入公式
 
-![22](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/22.gif)
+<img src="https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/22.gif" alt="22" style="zoom:50%;" />
 
 现在使用的时候，只需要快速的输入对应的字符即可自动触发RemNote操作，而无需切换需要为英文状态，具体使用效果如下图所示。
 
@@ -54,4 +56,6 @@
 
 
 
-之后就可以开心的使用RemNote了。![11](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/11.gif)
+之后就可以开心的使用RemNote了。
+
+<img src="https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/11.gif" alt="11" style="zoom:50%;" />
