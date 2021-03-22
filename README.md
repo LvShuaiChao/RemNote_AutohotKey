@@ -47,3 +47,11 @@
 或者下载安装AutoHotkey，然后运行RemNote_AutoHotkey.ahk文件 即可，使用的时候程序没有界面，自动隐藏在后台。
 
 ![image-20210322130439264](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/image-20210322130439264.png)
+
+
+
+
+
+
+
+之后就可以开心的使用RemNote了。![11](https://raw.githubusercontent.com/LvShuaiChao/blog_img/main/11.gif)
