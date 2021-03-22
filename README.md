@@ -8,25 +8,7 @@
 
 
 
-
-
-
-
-
-
-
-
 本项目的程序则可以避免这个问题，使用状态如下。
-
-
-
-
-
-
-
-分
-
-
 
 ![image-20210322104515830](E:%5CCode%5CMain%5Cautohotkey%5CRemNote_AutohotKey%5CReadMe.assets%5Cimage-20210322104515830.png)
 
@@ -56,22 +38,10 @@
 
 
 
-
-
-
-
-![[[](E:%5CCode%5CMain%5Cautohotkey%5CRemNote_AutohotKey%5CReadMe.assets%5C%5B%5B.gif)
-
-
-
-
-
-
-
-
-
-
+![image-20210322125838888](README.assets/image-20210322125838888.png)
 
 
 
 或者下载安装AutoHotkey，然后运行RemNote_AutoHotkey.ahk文件 即可，使用的时候程序没有界面，自动隐藏在后台。
+
+![image-20210322130439264](README.assets/image-20210322130439264.png)
