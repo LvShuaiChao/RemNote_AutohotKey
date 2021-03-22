@@ -2,9 +2,7 @@
 
 使用中文进行输入的用户常因为各种输入法的存在，所以很多RemNote的快捷键没办法直接使用，例如当在键盘上输入“[[”时，其实是输出的“【【”，这种情况下，必须将输入法切换为英文或者按一下Shift来使当前输入法切换为英文状态才行。
 
- 
-
-![Snipaste_2021-03-22_09-17-33](E:%5CCode%5CMain%5Cautohotkey%5CRemNote_AutohotKey%5CReadMe.assets%5CSnipaste_2021-03-22_09-17-33.jpg)
+![Snipaste_2021-03-22_09-17-33](README.assets/Snipaste_2021-03-22_09-17-33-1616389682537.jpg)
 
 
 
