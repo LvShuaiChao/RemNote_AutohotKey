@@ -3,18 +3,37 @@
 #SingleInstance Ignore			;;执行程序前先关闭程序
 #Persistent
 
+#InstallKeybdHook
 
-[::
-if key_presses_左中括号 = 1 ;
+/::
+if key_presses_slash = 1 ;
+{
+    SetTimer, KeyPressTimer, off
+    send,{BackSpace}
+    Send,{Text}`/`/
+    key_presses_slash = 0
+    return
+}
+suspend     ;暂停其他快捷键
+key_presses_slash = 1
+send,/
+suspend     ;再重新启用其他快捷键
+SetTimer, KeyPressTimer, 400 ; 在 400 毫秒内等待更多的键击.
+
+return
+
+
+SC01A::
+if key_presses_SC01A = 1 ;
 {
     SetTimer, KeyPressTimer, off
     send,{BackSpace}
     Send,{Text}`[`[
-    key_presses_左中括号 = 0
+    key_presses_SC01A = 0
     return
 }
 suspend     ;暂停其他快捷键
-key_presses_左中括号 = 1
+key_presses_SC01A = 1
 send,[
 suspend     ;再重新启用其他快捷键
 SetTimer, KeyPressTimer, 400 ; 在 400 毫秒内等待更多的键击.
@@ -101,12 +120,16 @@ KeyPressTimer:
 
 SetTimer, KeyPressTimer, off
 
-if key_presses_左中括号 = 2 ; 此键按下了一次.
+
+if key_presses_slash = 2 ; 此键按下了一次.
+{
+    Send,{Text}`/`/
+}
+
+if key_presses_SC01A = 2 ; 此键按下了一次.
 {
     Send,{Text}`[`[
 }
-
-
 
 if key_presses_shift1 = 2 ; 此键按下了一次.
 {
@@ -131,8 +154,8 @@ if key_presses_shift5 = 2 ; 此键按下了一次.
     Send,{Text}`%`%
 }
 
-key_presses_左中括号 = 0
-key_presses_左中括号 = 0
+key_presses_SC01A = 0
+key_presses_slash = 0
 key_presses_shift1 = 0
 key_presses_shift3 = 0
 key_presses_shift4 = 0
